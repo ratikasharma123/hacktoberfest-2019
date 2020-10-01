@@ -3,6 +3,11 @@
 - Bio: Software Developer
 - GitHub: [dougefr](https://github.com/dougefr)
 
+#### Name: [Ratika Sharma](https://github.com/ratikasharma123)
+- Place: Sonipat,Haryana,India
+- Bio: Python Developer and ML Enthusiast 
+- GitHub: [ratikasharma123](https://github.com/ratikasharma123)
+
 #### Name: [Mandeep Singh](https://github.com/honey2156)
 - Place: Bengaluru, India
 - Bio: Software Developer
